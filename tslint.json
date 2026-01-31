@@ -7,7 +7,9 @@
         "eofline": true,
         "quotemark": [true, "double"],
         "indent": [true, "spaces", 4],
-        "trailing-comma": [false]
+        "trailing-comma": [false],
+        "object-literal-sort-keys": false,
+        "member-ordering": false
     },
     "jsRules": {}
 }
